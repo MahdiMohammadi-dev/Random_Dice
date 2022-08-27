@@ -25,7 +25,7 @@ class _MyStateFulWidgetState extends State<MyStateFulWidget> {
             title: const Center(
               child: Text(
                 "Dice-Mahdi Mohammadi-Dev",
-                style: TextStyle(fontWeight: FontWeight.w700),
+                style: TextStyle(fontWeight: FontWeight.w700,fontSize:15),
               ),
             ),
           ),
